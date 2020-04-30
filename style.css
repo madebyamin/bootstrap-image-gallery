@@ -1,0 +1,49 @@
+body {
+  padding-top: 70px;
+}
+
+.jumbotron {
+  color: slateblue;
+  background-color: whitesmoke;
+}
+
+.navbar-fixed-top {
+  background-color: slateblue;
+}
+
+.navbar-default .navbar-brand {
+  color: snow;
+}
+
+.navbar-default .navbar-toggle {
+  color: snow;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: snow;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  color: snow;
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+  background-color: snow;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: black;
+}
+
+.navbar-toggle {
+  color: snow;
+}
+
+.navbar-default .navbar-toggle {
+  color: snow;
+}
+
+.dropdown {
+  color: snow;
+}
